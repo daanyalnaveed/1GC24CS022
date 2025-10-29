@@ -6,3 +6,6 @@ Section: A
 Branch: Computer Science Engineering
 Year of Admission: 2024
 College Name: GCE
+UG Degree: Computer Science Engineering
+PG Degree: Cyber Security & Engineering
+PhD Degree: Cyber Security
