@@ -7,5 +7,5 @@ Subject Name: Project Management with GIT
 Subject Code: BCS358C
 Academic Year: 2025-26
 Mobile No: 7338101533
-Email ID: daanyalnaveed@gmail.com
+
 
