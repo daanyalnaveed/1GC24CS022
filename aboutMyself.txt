@@ -1,0 +1,8 @@
+Title: Mr.
+Full Name: Daanyal Naveed
+USN: 1GC24CS022
+Semester: Third
+Section: A
+Branch: Computer Science Engineering
+Year of Admission: 2024
+College Name: GCE
