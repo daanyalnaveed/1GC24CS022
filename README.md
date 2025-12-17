@@ -1,21 +1,5 @@
-Title: Mr.
-Full Name: Daanyal Naveed
-USN: 1GC24CS022
-Semester: Third 
-Section: A
-Subject Name: Project Management with GIT
-Subject Code: BCS358C
-Academic Year: 2025-26
+First Name: Daanyal
+Last Name: Naveed
+Email ID: daanyalnaveed@gmail.com
+Github.ID: daanyalnaveed
 Mobile No: 7338101533
-
-
-
-My Date of Joining GCE: 15th Sep-2024
-
-
-
-
-
-
-
-
